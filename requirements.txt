@@ -2,5 +2,5 @@ numpy
 mne
 matplotlib
 scikit-learn
-pytorch
+torch
 pygame
